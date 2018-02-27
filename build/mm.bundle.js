@@ -71092,7 +71092,7 @@ angular.module('mm.addons.mod_workshop')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "org.itcilo.ecampus.moodleapp",
+    "app_id" : "org.itcilo.ecampusmobile",
     "appname": "ITCILO eCampus",
     "desktopappname": "ITCILO eCampus",
     "versioncode" : "2021",
